@@ -1,0 +1,13 @@
+C:\Users\CoolSteve\documents\visual studio 2015\Projects\GML_Conversation_Mapper\GML_Conversation_Mapper\bin\Debug\GML_Conversation_Mapper.exe.config
+C:\Users\CoolSteve\documents\visual studio 2015\Projects\GML_Conversation_Mapper\GML_Conversation_Mapper\bin\Debug\GML_Conversation_Mapper.exe.manifest
+C:\Users\CoolSteve\documents\visual studio 2015\Projects\GML_Conversation_Mapper\GML_Conversation_Mapper\bin\Debug\GML_Conversation_Mapper.application
+C:\Users\CoolSteve\documents\visual studio 2015\Projects\GML_Conversation_Mapper\GML_Conversation_Mapper\bin\Debug\GML_Conversation_Mapper.exe
+C:\Users\CoolSteve\documents\visual studio 2015\Projects\GML_Conversation_Mapper\GML_Conversation_Mapper\bin\Debug\GML_Conversation_Mapper.pdb
+C:\Users\CoolSteve\documents\visual studio 2015\Projects\GML_Conversation_Mapper\GML_Conversation_Mapper\obj\Debug\GML_Conversation_Mapper.csprojResolveAssemblyReference.cache
+C:\Users\CoolSteve\documents\visual studio 2015\Projects\GML_Conversation_Mapper\GML_Conversation_Mapper\obj\Debug\GML_Conversation_Mapper.Main_Window.resources
+C:\Users\CoolSteve\documents\visual studio 2015\Projects\GML_Conversation_Mapper\GML_Conversation_Mapper\obj\Debug\GML_Conversation_Mapper.Properties.Resources.resources
+C:\Users\CoolSteve\documents\visual studio 2015\Projects\GML_Conversation_Mapper\GML_Conversation_Mapper\obj\Debug\GML_Conversation_Mapper.csproj.GenerateResource.Cache
+C:\Users\CoolSteve\documents\visual studio 2015\Projects\GML_Conversation_Mapper\GML_Conversation_Mapper\obj\Debug\GML_Conversation_Mapper.exe.manifest
+C:\Users\CoolSteve\documents\visual studio 2015\Projects\GML_Conversation_Mapper\GML_Conversation_Mapper\obj\Debug\GML_Conversation_Mapper.application
+C:\Users\CoolSteve\documents\visual studio 2015\Projects\GML_Conversation_Mapper\GML_Conversation_Mapper\obj\Debug\GML_Conversation_Mapper.exe
+C:\Users\CoolSteve\documents\visual studio 2015\Projects\GML_Conversation_Mapper\GML_Conversation_Mapper\obj\Debug\GML_Conversation_Mapper.pdb

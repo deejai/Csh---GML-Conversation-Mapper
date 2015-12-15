@@ -1,0 +1,8 @@
+c:\users\coolsteve\documents\visual studio 2015\Projects\GML_Conversation_Mapper\GML_Conversation_Mapper\bin\Release\GML_Conversation_Mapper.exe.config
+c:\users\coolsteve\documents\visual studio 2015\Projects\GML_Conversation_Mapper\GML_Conversation_Mapper\bin\Release\GML_Conversation_Mapper.exe
+c:\users\coolsteve\documents\visual studio 2015\Projects\GML_Conversation_Mapper\GML_Conversation_Mapper\bin\Release\GML_Conversation_Mapper.pdb
+c:\users\coolsteve\documents\visual studio 2015\Projects\GML_Conversation_Mapper\GML_Conversation_Mapper\obj\Release\GML_Conversation_Mapper.Main_Window.resources
+c:\users\coolsteve\documents\visual studio 2015\Projects\GML_Conversation_Mapper\GML_Conversation_Mapper\obj\Release\GML_Conversation_Mapper.Properties.Resources.resources
+c:\users\coolsteve\documents\visual studio 2015\Projects\GML_Conversation_Mapper\GML_Conversation_Mapper\obj\Release\GML_Conversation_Mapper.csproj.GenerateResource.Cache
+c:\users\coolsteve\documents\visual studio 2015\Projects\GML_Conversation_Mapper\GML_Conversation_Mapper\obj\Release\GML_Conversation_Mapper.exe
+c:\users\coolsteve\documents\visual studio 2015\Projects\GML_Conversation_Mapper\GML_Conversation_Mapper\obj\Release\GML_Conversation_Mapper.pdb
